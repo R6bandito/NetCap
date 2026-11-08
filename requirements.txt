@@ -1,0 +1,2 @@
+# 本工具只依赖 Python 标准库（tkinter）+ Wireshark 自带的 tshark/dumpcap
+# 无需 pip install 任何东西
